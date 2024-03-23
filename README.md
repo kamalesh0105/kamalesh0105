@@ -3,7 +3,7 @@
 I'm a passionate web developer with a strong focus on creating engaging and user-friendly web applications. Welcome to my GitHub profile!
 
 ## 🚀 What I Do
-- Frontend Development using HTML, CSS, JavaScript, and modern frameworks like React.
+- Frontend Development using HTML, CSS, JavaScript, and modern libraries & frameworks like React and NextJS.
 - Backend Development with php,Node.js, Express, and databases like MongoDB and MySql.
 - Collaborating on open-source projects and contributing to the developer community.
 
