@@ -52,3 +52,5 @@ I'm a passionate web developer with a strong focus on creating engaging and user
   <img style="padding: 4px;" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
 </p>
 
+## Leetcode
+[![Leetcode Stats](https://leetcard.jacoblin.cool/kamalesh0105?ext=contest&theme=dark)]()
