@@ -15,39 +15,39 @@ I'm a passionate web developer with a strong focus on creating engaging and user
  ### Languages
 <p>
   <!-- Languages -->
-  <img style="padding: 4px;" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img style="padding: 4px;" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img style="padding: 4px;" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img style="padding: 4px;" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img style="padding: 4px;" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img style="padding: 4px;" src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp;
+  <img style="padding: 4px;" src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;
+  <img style="padding: 4px;" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
+  <img style="padding: 4px;" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />&nbsp;
+  <img style="padding: 4px;" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />&nbsp;
 </p>
 
 ### Databases / OS
 <p>
   <!-- Databases / OS -->
-  <img style="padding: 4px;" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img style="padding: 4px;" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img style="padding: 4px;" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img style="padding: 4px;" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    <img style="padding: 4px;" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img style="padding: 4px;" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;
+  <img style="padding: 4px;" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />&nbsp;
+  <img style="padding: 4px;" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />&nbsp;
+  <img style="padding: 4px;" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />&nbsp;
+    <img style="padding: 4px;" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;
 </p>
 
  ### Frameworks & Libraries
 <p>
   <!-- Frameworks & Libraries -->
-  <img style="padding: 4px;" src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img style="padding: 4px;" src="https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img style="padding: 4px;" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img style="padding: 4px;" src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img style="padding: 4px;" src="https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black" />&nbsp;
+  <img style="padding: 4px;" src="https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&logoColor=white" />&nbsp;
+  <img style="padding: 4px;" src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp;
+  <img style="padding: 4px;" src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />&nbsp;
 </p>
 
  ### Tools & Technologies
 <p>
   <!-- Tools & Technologies -->
-  <img style="padding: 4px;" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img style="padding: 4px;" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img style="padding: 4px;" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img style="padding: 4px;" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img style="padding: 4px;" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img style="padding: 4px;" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />&nbsp;
+  <img style="padding: 4px;" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
+  <img style="padding: 4px;" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />&nbsp;
+  <img style="padding: 4px;" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />&nbsp;
+  <img style="padding: 4px;" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />&nbsp;
 </p>
 
