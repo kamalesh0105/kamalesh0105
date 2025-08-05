@@ -6,7 +6,7 @@ I'm a passionate web developer with a strong focus on creating engaging and user
 - Frontend Development using HTML, CSS, JavaScript, and modern libraries & frameworks like ReactJs.
 - Backend Development with Node.js, Express,Spring boot and databases like MySql and PSQl.
 - Collaborating on open-source projects and contributing to the developer community.
-
+<h3 id="portfolio">Portfolio: <a href="https://https://kamalesh0105.netlify.app/">kamalesh0105.netlify.app/</a></h3>
 ## 🔧 Skills
 <!-- <p align="left"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"><a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
   <a href="https://www.java.com/" target="_blank" rel="noreferrer">
