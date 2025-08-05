@@ -21,7 +21,8 @@ I'm a passionate web developer with a strong focus on creating engaging and user
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
- ### Databases / OS
+
+### Databases / OS
 <p>
   <!-- Databases / OS -->
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -30,6 +31,7 @@ I'm a passionate web developer with a strong focus on creating engaging and user
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
+
  ### Frameworks & Libraries
 <p>
   <!-- Frameworks & Libraries -->
@@ -38,6 +40,7 @@ I'm a passionate web developer with a strong focus on creating engaging and user
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </p>
+
  ### Tools & Technologies
 <p>
   <!-- Tools & Technologies -->
@@ -46,5 +49,5 @@ I'm a passionate web developer with a strong focus on creating engaging and user
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
+</p>
 
